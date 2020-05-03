@@ -1,3 +1,3 @@
-[![mot](http://img.youtube.com/vi/krLPOLqZCD0/0.jpg){: .align-center}](http://www.youtube.com/watch?v=krLPOLqZCD0 "mot")
+<iframe width="956" height="538" src="https://www.youtube.com/embed/krLPOLqZCD0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * * *
 cs500
